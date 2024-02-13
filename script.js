@@ -27,7 +27,7 @@ noButton.addEventListener("click", function () {
 });
 
 function handleYesClick() {
-  titleElement.innerHTML = "Yayyy!!";
+  titleElement.innerHTML = "Yayyy!! Langsung kesinii >> https://vansameng.github.io/Flower/";
   buttonsContainer.classList.add("hidden");
   changeImage("yes");
 }
