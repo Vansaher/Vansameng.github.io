@@ -47,7 +47,7 @@ function generateMessage(noCount) {
     "Kok gamau??",
     "Jangan gitu dong",
     "You're breaking my heart",
-    "I'm gonna cry...",
+    "Sad meng",
   ];
 
   const messageIndex = Math.min(noCount, messages.length - 1);
